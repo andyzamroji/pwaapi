@@ -1,0 +1,25 @@
+{
+"products":
+[
+{"id":1,"name":"Groundhog","category":"Blue"},
+{"id":2,"name":"Pelican, great white","category":"Goldenrod"},
+{"id":3,"name":"Grebe, little","category":"Maroon"},
+{"id":4,"name":"Glossy starling (unidentified)","category":"Turquoise"},
+{"id":5,"name":"Armadillo, seven-banded","category":"Teal"},
+{"id":6,"name":"Waxbill, violet-eared","category":"Aquamarine"},
+{"id":7,"name":"Cat, jungle","category":"Blue"},
+{"id":8,"name":"Dragon, asian water","category":"Orange"},
+{"id":9,"name":"Parrot, hawk-headed","category":"Aquamarine"},
+{"id":10,"name":"White-faced tree rat","category":"Maroon"},
+{"id":11,"name":"Kite, black","category":"Aquamarine"},
+{"id":12,"name":"Grenadier, purple","category":"Pink"},
+{"id":13,"name":"Bat-eared fox","category":"Crimson"},
+{"id":14,"name":"Ant (unidentified)","category":"Fuscia"},
+{"id":15,"name":"Field flicker","category":"Crimson"},
+{"id":16,"name":"Striated heron","category":"Green"},
+{"id":17,"name":"Butterfly, canadian tiger swallowtail","category":"Green"},
+{"id":18,"name":"Flicker, campo","category":"Blue"},
+{"id":19,"name":"Oystercatcher, blackish","category":"Fuscia"},
+{"id":20,"name":"Kaffir cat","category":"Khaki"}
+]
+}
